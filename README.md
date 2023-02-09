@@ -1,4 +1,4 @@
-# Machine Learning From Scratch by AssemblyAI
+# first test decision tree
 
 This repository contains the code developed in the Machine Learning from scratch course on YouTube by AssemblyAI. It includes the implementations of popular ML algorithms.
 
